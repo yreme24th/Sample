@@ -1,0 +1,51 @@
+body{
+    background-color:;
+}
+.wrapper{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+    box-shadow: 5px 5px 50px 5px;
+    height: 600px;
+}
+
+.logo{
+    height: 200px;
+    background-color:darkkhaki: ;;
+}
+
+.nav{
+    height: 50px;
+    background: lightgreen;
+}
+
+.content{
+    width: 100%;
+    height: 300px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.contA{
+    height: 300px;
+    float: left;
+    width: 30%;
+    background: lightseagreen;
+}
+
+.contB{
+    height: 300px;
+    width: 70%;
+    float: right;
+    background: cadetblue;
+}
+
+.footer{
+    height: 50px;
+    width: 100%;
+    background: deepskyblue;
+    float:left;
+}
